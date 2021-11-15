@@ -3,7 +3,7 @@
 <!--
 **aaronmaj/aaronmaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Reactive Spring Boot Microservices and containerization with Docker
 - 🌱 I’m currently learning cloud-native architectures with Kubernetes
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aaronmajb@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+<!--><-->
