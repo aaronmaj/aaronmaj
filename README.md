@@ -6,11 +6,11 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on `Reactive Spring Boot Microservices` and `Containerization` with `Docker`
-- 🌱 I’m currently learning `cloud-native architectures` with `Kubernetes`, `GraphQL`
+- 🌱 I’m currently learning `cloud-native architectures` with `Kubernetes`, `GraphQL` and `Multiprocessor Programming in Java`
 - 👯 I’m looking to collaborate on an open source project.
 - 🤔 I’m looking for help with `DevOps`, `CI/CD pipelines`, `AWS `
 - 💬 Ask me about `Spring/Spring Boot`, `cloud-native`, `REST APIs` and `Microservices`
 - 📫 How to reach me: aaronmajb@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-<!--><-->
+
