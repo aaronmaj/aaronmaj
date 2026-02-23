@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on `Reactive Spring Boot Microservices`, `Containerization` with `Docker` and `Identity and Access Management with OAuth 2.0`
+- 🔭 I’m currently working on `Spring Boot Microservices`,`Event-Driven Architectures`, `Containerization` with `Docker` and `Identity and Access Management with OAuth 2.0`
 - 🌱 I’m currently learning `Clean Architecture`, `Cloud-native architectures` with `Kubernetes` and `Quarkus`, `GraphQL` and `Multiprocessor Programming in Java and Kotlin`
 - 👯 I’m looking to collaborate on an open source project.
 - 🤔 I’m looking for help with  `AWS `, `Refactoring Java applications to Java 25 LTS version`
